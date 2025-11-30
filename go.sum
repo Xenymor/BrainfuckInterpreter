@@ -1,0 +1,4 @@
+github.com/amarsinghrathour/go-stack v1.0.1 h1:CCT1wsrMdPZEuakI9/RIRISZ+WFd5JcSd71IPNL05sE=
+github.com/amarsinghrathour/go-stack v1.0.1/go.mod h1:ZMcaxgsJs1J8Zx30QzfT9oAoZ2KglsL+SPcqkV67GVQ=
+github.com/hashicorp/go-set/v3 v3.0.1 h1:ZwO15ZYmIrFYL9zSm2wBuwcRiHxVdp46m/XA/MUlM6I=
+github.com/hashicorp/go-set/v3 v3.0.1/go.mod h1:0oPQqhtitglZeT2ZiWnRIfUG6gJAHnn7LzrS7SbgNY4=
